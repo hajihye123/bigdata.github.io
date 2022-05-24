@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 빅데이터 기초
 
 >  - [데이터 Handling](0518_데이터 Handling.html)
 >  - [데이터 수집 및 정제](0518_데이터수집 및 정제.html)
@@ -6,34 +6,10 @@
 >  - [통계 분석](0519_통계 분석.html)
 >  - [검정](0520_검정.html) <br/>
  
-### Markdown
+## 빅데이터 분석
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hajihye123/bigdata.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+>  - [회귀분석]()
+>  - [의사결정나무/랜덤포레스트/그래디언트 부스팅]()
+>  - [주성분/시계열]()
+>  - [ㅇㅇ]()
+>  - [ㅇㅇ]() <br/>
