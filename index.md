@@ -1,8 +1,10 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/hajihye123/bigdata.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+>  - [데이터 Handling](0518_데이터 Handling.html)
+>  - [데이터 수집 및 정제](0518_데이터수집 및 정제.html)
+>  - [탐색적 분석](0519_탐색적 분석.html)
+>  - [통계 분석](0519_통계 분석.html)
+>  - [검정](0520_검정.html) <br/>
 
 ### Markdown
 
