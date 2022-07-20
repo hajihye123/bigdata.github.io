@@ -39,3 +39,11 @@
 >  - [모델링 - 로지스틱 회귀분석, 랜덤포레스트](빅데이터_프로젝트/3-1. 모델링 로지스틱회귀 랜덤포레스트.html)
 >  - [모델링 - Nueral Network](빅데이터_프로젝트/3-2. 모델링 Neural Network.html)
 >  - [모델링 - SVM](빅데이터_프로젝트/3-3. 모델링 SVM.html)
+
+## 인공지능 프로젝트
+>  - [이미지 전처리(밝기 조절/자르기/paired dataset 생성하기)](인공지능_프로젝트/pix2pix/ev.html)
+>  - [pix2pix 기본 모델 학습](인공지능_프로젝트/pix2pix/pix2pix.html)
+>  - [pix2pix 기본 모델 테스트](인공지능_프로젝트/pix2pix/pix2pix_test.html)
+>  - [pix2pix 해상도 변경 모델 학습](인공지능_프로젝트/pix2pix/pix2pix_640_480.html)
+>  - [pix2pix 해상도 변경 모델 테스트](인공지능_프로젝트/pix2pix_640_480_test.html)
+  
