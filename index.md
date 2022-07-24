@@ -47,7 +47,7 @@
 >  - [pix2pix 기본 모델 학습](인공지능_프로젝트/pix2pix/pix2pix.html)
 >  - [pix2pix 기본 모델 테스트](인공지능_프로젝트/pix2pix/pix2pix_test.html)
 >  - [pix2pix 해상도 변경 모델 학습](인공지능_프로젝트/pix2pix/pix2pix_640_480.html)
->  - [pix2pix 해상도 변경 모델 테스트](인공지능_프로젝트/pix2pix_640_480_test.html)
+>  - [pix2pix 해상도 변경 모델 테스트](인공지능_프로젝트/pix2pix/pix2pix_640_480_test.html)
 >  
 pix2pix 모델 설명: 기본 모델은 256x256 해상도의 이미지를 input으로 받는다. 하지만 동키카에 부착된 웹캠으로 촬영한 640x480 해상도의 이미지를 input으로 사용하기 위하여 해상도 변경 모델 파일을 만들었다. 정사각형으로 만들기 위해 512x512 이미지로의 변경이 필요하다. test 파일은 paired image가 아닌 단일 input만 주면 day로 변환이 가능하도록 함수를 수정했다. checkpoint 파일의 경우 용량이 커 첨부하지 못하였지만 train image는 첨부되어 있으므로 학습 파일을 실행시키면 생성된다.
 >  - [pix2pix.ipynb 링크](https://github.com/hajihye123/bigdata.github.io/tree/gh-pages/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/pix2pix)
